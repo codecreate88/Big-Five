@@ -1,5 +1,5 @@
 # Big-Five
-Big Five Personality Test
+To classify individuals based on Big Five Personality Test
 
 This project attempts to classify individuals into 5 cluster personalities.  Based on the Big Five Personality Traits, these clusters are : Extraversion, Agreeableness, Conscientiousness, Neuroticism and Openness.
 
